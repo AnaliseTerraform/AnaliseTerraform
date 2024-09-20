@@ -15,7 +15,7 @@ Este repositório contém scripts de automação para provisionamento de infraes
    1. Clone este repositório:
       
    ```
-   git clone https://github.com/seuusuario/terraform-automation-scripts.git
+   git clone https://github.com/AnaliseTerraform/terraform-automation-scripts.git
    cd terraform-automation-scripts
    ```
    2. Entre na pasta do script desejado:
