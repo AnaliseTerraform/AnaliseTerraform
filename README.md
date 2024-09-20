@@ -7,10 +7,6 @@ Este repositório contém scripts de automação para provisionamento de infraes
 ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws)
 ![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=microsoft-azure)
 
-## 📊 Estatísticas do GitHub
-![AnaliseTerraform](https://github-readme-stats.vercel.app/api?username=AnaliseTerraform&show_icons=true&theme=radical)
-
-
 ## 🗂 Estrutura do Repositório
 - **/aws**: Scripts para automação de infraestrutura na AWS.
 - **/azure**: Scripts para automação de infraestrutura na Azure.
@@ -37,5 +33,5 @@ analiseterraform@outlook.com
 ## 🎁 Apoie meus projetos
 Se você achou meu trabalho útil, considere apoiar este projeto com uma doação:
   
-[![PayPal](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/donate/link_aqui)
+[![PayPal](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/donate/?hosted_button_id=MNVWCG4YML67G)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20A-Coffee-yellow.svg)](https://www.buymeacoffee.com/seuUsuario)
