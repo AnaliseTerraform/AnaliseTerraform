@@ -13,19 +13,13 @@ Este repositório contém scripts de automação para provisionamento de infraes
 
 
 ## 🚀 Como Usar
-   1. Clone este repositório:
-      
+   1. Clone este repositório
+   2. Entre na pasta do script desejado
+   3. Execute o terraform:
+    
    ```
-   git clone https://github.com/AnaliseTerraform/terraform-automation-scripts.git
-   cd terraform-automation-scripts
-   ```
-   2. Entre na pasta do script desejado:
-
-   ```
-    cd aws/ec2-instance
     terraform init
     terraform apply
-
    ```
 ## 📫 Entre em contato comigo
 analiseterraform@outlook.com
